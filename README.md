@@ -1,4 +1,5 @@
-# DASHBOARD-PROJECT
+<h1 align="center" > DASHBOARD-PROJECT </h1>
+
 ![gt](https://user-images.githubusercontent.com/112408111/214611279-11d45bf1-8b12-4502-bbb2-4e22d6fd2461.png)
 
 Nesse projeto eu e minha squad montamos
