@@ -55,7 +55,9 @@ dados selecionado.
 - ``Canvas``
 - ``Excel``
 
-## EQUIPE
+![equipe](https://user-images.githubusercontent.com/112408111/214830447-fed8a61b-f5ed-4497-9875-a120590a2caf.png)
+
+## GITHUB
 
 | [<img src="https://avatars.githubusercontent.com/u/113526718?v=4" width=115><br><sub>Guilherme Brito</sub>](https://github.com/GuilhermeBrito89) |  [<img src="https://avatars.githubusercontent.com/u/112408111?v=4" width=115><br><sub>Luiz Felipe</sub>](https://github.com/LuizMatt97) |  [<img src="https://avatars.githubusercontent.com/u/112822398?v=4" width=115><br><sub>Felipe Costa</sub>](https://github.com/CrvgFelipe) | [<img src="https://avatars.githubusercontent.com/u/112409835?v=4" width=115><br><sub>Emanuele Oliveira</sub>](https://github.com/ogolipe) | [<img src="https://avatars.githubusercontent.com/u/113260575?v=4" width=115><br><sub>Lucas Salustriano</sub>](https://github.com/lcsalustriano)
 | :---: | :---: | :---: | :---: | :---: |
