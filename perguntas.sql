@@ -10,7 +10,7 @@ from gotepisodes
 order by rating
 limit 5;
 
-/*3. Quantos episódios tem 1 hora ou mais de duração?*/
+/*3. Quais episódios tem 1 hora ou mais de duração?*/
 select title, duration
 from gotepisodes
 where duration >= 60
